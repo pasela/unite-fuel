@@ -1,0 +1,35 @@
+a unite.vm plugin for FuelPHP.
+
+inspired by heavenshell's unite-zf
+https://github.com/heavenshell/unite-zf
+
+unit /fuel
+  :Unite fuel/
+unite /fuel/app
+  :Unite fuel/app
+unite /fuel/app/classes/controller
+  :Unite fuel/controller
+unite /fuel/app/classes/model
+  :Unite fuel/model
+unite /fuel/app/classes/view
+  :Unite fuel/view
+unite /fuel/app/views
+  :Unite fuel/views
+unite /fuel/app/lang
+  :Unite fuel/lang
+unite /fuel/app/config
+  :Unite fuel/config
+unite /fuel/app/modules
+  :Unite fuel/modules
+unite /fuel/app/migrations
+  :Unite fuel/migrations
+unite /fuel/app/tasks
+  :Unite fuel/tasks
+unite /fuel/app/vendor
+  :Unite fuel/vendor
+unite /fuel/public
+  :Unite fuel/public
+unite /fuel/app/packages
+  :Unite fuel/packages
+unite /fuel/app/core
+  :Unite fuel/core
